@@ -1,0 +1,5 @@
+/home/wesley/Downloads/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wesley/CLionProjects/Mines_Final
+-- Found SFML 2.4.2 in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wesley/CLionProjects/Mines_Final/cmake-build-debug

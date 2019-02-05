@@ -1,0 +1,3 @@
+/home/wesley/CLionProjects/Mines_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wesley/CLionProjects/Mines_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wesley/CLionProjects/Mines_Final/cmake-build-debug/CMakeFiles/Mines_Final.dir
